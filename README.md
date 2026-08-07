@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING SUBTITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student;Vibe+Coder+%26+Full-Stack+Dev;Building+for+Social+Impact;TypeScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student;Vibe+Coder+%26+Full-Stack+Dev;Building+PSxRENT+for+Social+Impact;TypeScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,11 +21,28 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Computer Science Student passionate about building real-world solutions.
-- ⚡ **Developer Persona:** Vibe coder — turning ideas into functional, clean code at speed.
-- 🎯 **Primary Focus:** Developing tech products dedicated to driving positive change in the **Social Sector**.
-- 💡 **Featured Initiative:** Founder/Developer behind **PSxRENT**.
+- 🎓 **Education:** Computer Science Student passionate about building scalable, high-impact digital solutions.
+- ⚡ **Developer Persona:** Vibe coder — rapidly turning ideas into functional, clean code.
+- 🎯 **Primary Mission:** Harnessing technology to build accessible tools and platforms for the **Social Sector**.
 - 🛠️ **Core Stack:** TypeScript, React.js, and Node.js.
+
+---
+
+### 🌟 Featured Project: PSxRENT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🚀_Active_Development-FFD700?style=for-the-badge&logo=githubactions&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sector-Social_Impact-00F0FF?style=for-the-badge" />
+</p>
+
+> 🛠️ **PSxRENT** is an ongoing, impact-driven platform designed to serve the social sector. It bridges resource gaps by streamlining equipment sharing and rental accessibility, making vital tools and assets affordable and accessible across communities.
+
+#### 🌐 Official Live Site
+🌐 **Check out the platform here:** **[PSxRENT Official Web App](https://psxrent.com)** *(Replace with your actual domain if different)*
+
+#### 🚧 Current Development Status
+- ⚙️ **Build Status:** **Active Work in Progress 🛠️** — Features, integrations, and performance updates are actively being rolled out.
+- 🎯 **Core Focus:** Building seamless user workflows, real-time tracking, and community verification systems.
 
 ---
 
@@ -48,18 +65,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-### 🌟 Featured Impact Project
-
-<p align="center">
-  <a href="https://github.com/romit077-hub/PSxRENT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romit077-hub&repo=PSxRENT&theme=synthwave&show_owner=true" width="60%" />
-  </a>
-</p>
-
-> **PSxRENT:** A social-sector application designed to streamline resource distribution, rental accessibility, and social impact through technology.
 
 ---
 
