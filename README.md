@@ -1,9 +1,9 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Romit&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Romit&fontSize=48&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Vibe+Coder;Building+Tech+for+Social+Impact" alt="Typing SVG" />
+  <a href="javascript:void(0);">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Vibe+Coder;Building+Tech+for+Social+Impact;TS+%7C+React+%7C+Node.js" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,10 +11,10 @@
 
 ### ⚡ About Me
 
-- 💻 **CS Student & Developer:** Passionate about building functional apps with clean code and a good vibe.
-- 🚀 **Featured Project:** Building **PSxRENT** to solve real-world problems in the social sector.
-- 🛠️ **Tech Focus:** Full-stack development with TypeScript, React, and Node.js.
-- 💬 **Ask me about:** Web Apps, Modern Frontend, Backend APIs, and Social Impact Tech.
+- 💻 **CS Student & Developer:** Passionate about building high-performance apps with clean code and high vibes.
+- 🚀 **Featured Project:** Architecting **PSxRENT** to solve real-world problems in the social sector.
+- 🛠️ **Tech Focus:** Full-stack development powered by TypeScript, React, and Node.js.
+- 💬 **Ask me about:** Web Apps, Modern Frontend, Scalable Backend APIs, and Social Impact Tech.
 
 ---
 
@@ -33,22 +33,40 @@
 
 ### 📌 Featured Projects
 
-#### 🎮 [PSxRENT](https://github.com/romit077-hub/PSxRENT)
+#### 🎮 PSxRENT
 > **Driving value in the social sector through accessible tech solutions.**
 - Built with **TypeScript**, **React**, and **Node.js**.
 - A platform focused on social accessibility and resource sharing.
 
 ---
 
-### 📊 GitHub Statistics
+### 🏆 Achievement Badges
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=romit077-hub&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romit077-hub&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=romit077-hub&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophies" />
+</div>
+
+---
+
+### 📊 Performance & Coding Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romit077-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romit077-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=romit077-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🔥 Profile Activity Snapshot
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romit077-hub&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -56,10 +74,10 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://instagram.com/romit_2.11">
+  <a href="https://instagram.com/romit_2.11" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"/>
   </a>
-  <a href="https://instagram.com/psxrent">
+  <a href="https://instagram.com/psxrent" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-PSxRENT-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="PSxRENT Instagram"/>
   </a>
 </div>
