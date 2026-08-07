@@ -81,3 +81,10 @@
     <img src="https://img.shields.io/badge/Instagram-PSxRENT-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="PSxRENT Instagram"/>
   </a>
 </div>
+
+
+
+
+
+
+
