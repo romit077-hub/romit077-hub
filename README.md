@@ -9,7 +9,7 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ About Me!
 
 - 💻 **CS Student & Developer:** Passionate about building high-performance apps with clean code and high vibes.
 - 🚀 **Featured Project:** Architecting **PSxRENT** to solve real-world problems in the social sector.
