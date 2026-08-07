@@ -38,7 +38,7 @@
 > 🛠️ **PSxRENT** is an ongoing, impact-driven platform designed to serve the social sector. It bridges resource gaps by streamlining equipment sharing and rental accessibility, making vital tools and assets affordable and accessible across communities.
 
 #### 🌐 Official Live Site
-🌐 **Check out the platform here:** **[PSxRENT Official Web App]([https://psxrent.com](https://psxrent-m024rzlh6-ps-x-rent.vercel.app/))** 
+🌐 **Check out the platform here:** **[PSxRENT Web App](https://psxrent-m024rzlh6-ps-x-rent.vercel.app/)**
 
 #### 🚧 Current Development Status
 - ⚙️ **Build Status:** **Active Work in Progress 🛠️** — Features, integrations, and performance updates are actively being rolled out.
