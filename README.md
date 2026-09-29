@@ -132,6 +132,15 @@ Prisma ORM    Redirect Engine
  ▼               ├── Record ClickEvent
 SQLite            ├── Update Analytics
                   └── HTTP 307 → Destination
+                  <!-- PROJECT 1 END -->
+
+<br>
+
+---
+
+<br>
+
+<!-- PROJECT 2 START -->
 
 #### 🧠 NeuroVault + Synapse Active Brain
 
