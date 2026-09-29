@@ -84,6 +84,54 @@ The goal is to make console discovery, rental information and booking easier to 
 **[View web preview →](https://psxrent-m024rzlh6-ps-x-rent.vercel.app/)** · **[Follow PSxRENT →](https://instagram.com/psxrent)**
 
 ---
+<!-- ==================== LINKPULSE ==================== -->
+
+### 🔗 LinkPulse — Secure URL Shortener & Click Analytics Engine
+
+> A security-focused full-stack URL shortening and clickstream analytics platform built with **Next.js 14, TypeScript, Prisma & SQLite**.
+
+<p align="left">
+  <a href="https://github.com/romit077-hub/url-shortener-pro">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-LinkPulse-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**⚡ What it does**
+
+- 🔗 Generates secure random or custom short URLs
+- ⚡ Performs fast **HTTP 307 redirects**
+- 📊 Tracks click analytics & device distribution
+- 🔐 Protects private analytics using cryptographic access tokens
+- 🛡️ Validates and filters unsafe URL destinations
+- 🔏 Uses **HMAC-SHA256 pseudonymization** instead of storing raw IP addresses
+- 🌐 Minimizes referrer data by storing hostname-level information
+- 🚦 Includes API rate limiting & abuse protection
+- 🎯 Handles slug collisions with database-backed uniqueness
+- 📱 Generates QR codes for shortened links
+- 📈 Uses indexed click-event storage for analytics queries
+- 🔒 Includes defensive HTTP security headers
+
+**🧠 Architecture**
+
+```text
+User
+ │
+ ▼
+Next.js / React UI
+ │
+ ▼
+Zod Validation + Security Controls
+ │
+ ▼
+Next.js Route Handlers
+ │
+ ├───────────────┐
+ ▼               ▼
+Prisma ORM    Redirect Engine
+ │               │
+ ▼               ├── Record ClickEvent
+SQLite            ├── Update Analytics
+                  └── HTTP 307 → Destination
 
 #### 🧠 NeuroVault + Synapse Active Brain
 
