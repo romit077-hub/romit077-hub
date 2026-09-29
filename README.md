@@ -113,7 +113,7 @@ The goal is to make console discovery, rental information and booking easier to 
 
 **🧠 Architecture**
 
-```text
+
 User
  │
  ▼
