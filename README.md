@@ -85,6 +85,7 @@ The embedding model runs through **Transformers + PyTorch**. Synapse's current f
 Accepting a memory update preserves the older source document, so retrieval can still explain the history of a change. Normal use runs locally after the initial dependency and model downloads.
 
 **Current scope:** a single-user local MVP. OCR, cloud sync and autonomous agents are outside the completed V0.
+and please keep in mind i am soon releasing the exe app for window , the reason it is not there because its just v0.....
 
 </details>
 
