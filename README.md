@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="#selected-projects">Selected projects</a> ·
+  <a href="#source2lab--from-sources-to-reproducible-notebooks">Source2Lab</a> ·
   <a href="#toolkit">Toolkit</a> ·
   <a href="#current-focus">Current focus</a> ·
   <a href="#lets-connect">Let's connect</a>
@@ -90,6 +91,34 @@ and please keep in mind i am soon releasing the exe app for window , the reason 
 </details>
 
 **[Explore NeuroVault + Synapse →](https://github.com/romit077-hub/neurovault-synapse-v0)**
+
+---
+
+### 🧪 Source2Lab — From Sources to Reproducible Notebooks
+
+**Turning technical material into traceable Python experiments that can be executed, checked and improved.**
+
+<p>
+  <img src="https://img.shields.io/badge/Stage-Active_Development-F59E0B?style=flat-square" alt="Active development" />
+  <img src="https://img.shields.io/badge/Output-Jupyter_Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter notebook output" />
+  <img src="https://img.shields.io/badge/Focus-Reproducibility-06B6D4?style=flat-square" alt="Research reproducibility" />
+</p>
+
+**Source2Lab** is a research-to-code workflow I'm building to bridge the gap between *reading* technical material and *testing* its ideas. The aim is to produce notebooks with understandable steps, explicit assumptions and links back to the source—not just generated code that looks plausible.
+
+**What I'm building:**
+
+- **Source-aware notebooks:** turn a selected technical source or controlled example into a structured, explainable experiment.
+- **Reproducible setup:** record inputs, dependencies, parameters, expected behavior and execution results.
+- **Isolated verification:** run generated notebooks inside a restricted Docker environment rather than executing untrusted code on the host.
+- **Useful failure reports:** capture cell errors, missing packages, exceptions and timeouts for debugging.
+- **Controlled repair:** propose bounded fixes (up to two retries), preserve original versions and never silently change the source's intent.
+
+**Tools and technologies:** `Python` · `Jupyter` · `nbclient` · `Docker` · `pytest`
+
+**Engineering focus:** source traceability, reproducible experiments, sandboxed execution and transparent validation.
+
+> **Development status:** Work in progress. The repository is private for now, and the planned verification and repair workflow is not presented as a finished or publicly released product.
 
 ---
 
@@ -178,6 +207,7 @@ Tools I use across my projects and continue to learn.
 
 ## Current focus
 
+- **Source2Lab:** developing a source-to-notebook workflow with reproducible execution, clear failure reports and safety boundaries.
 - **NeuroVault + Synapse:** documenting and showcasing the completed V0 and its verified behavior.
 - **PANIC:** refining the demo, usability and testing on real devices.
 - **PSxRENT:** developing the core rental experience into a usable MVP.
