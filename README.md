@@ -31,6 +31,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=720&height=28&lines=IDEATE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+ITERATE;LOCAL-FIRST+AI+%7C+REAL+PROJECTS+%7C+HONEST+ENGINEERING;SMALL+STEPS.+VERIFIABLE+RESULTS.+BETTER+SYSTEMS." alt="Ideate, build, test and iterate — local-first AI, real projects and honest engineering" />
+</p>
+
 ## A little about me
 
 I'm **Romit**, a **third-year BTech Computer Science student** at **Ganpat University — U. V. Patel College of Engineering**, based in Gujarat, India.
@@ -42,6 +46,10 @@ I'm building experience across **local AI systems, Android applications and web 
 > **Build something useful. Understand how it works. Make the next version better.**
 
 ## Selected projects
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A7C3AED%2C100%3ADB2777&height=72&section=header&text=01%20%20%2F%20%20NEUROVAULT%20%C3%97%20SYNAPSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="01  /  NEUROVAULT × SYNAPSE — animated section banner" />
+</p>
 
 ### 🧠 NeuroVault + Synapse Active Brain
 
@@ -86,14 +94,17 @@ The embedding model runs through **Transformers + PyTorch**. Synapse's current f
 
 Accepting a memory update preserves the older source document, so retrieval can still explain the history of a change. Normal use runs locally after the initial dependency and model downloads.
 
-**Current scope:** a single-user local MVP. OCR, cloud sync and autonomous agents are outside the completed V0.
-and please keep in mind i am soon releasing the exe app for window , the reason it is not there because its just v0.....
+**Current scope:** a single-user local MVP. OCR, cloud sync and autonomous agents are outside the completed V0. A Windows executable is planned for a future release; it is not listed as available because the project is still at V0.
 
 </details>
 
 **[Explore NeuroVault + Synapse →](https://github.com/romit077-hub/neurovault-synapse-v0)**
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3AF59E0B%2C50%3AEA580C%2C100%3A7C3AED&height=72&section=header&text=02%20%20%2F%20%20SOURCE2LAB&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="02  /  SOURCE2LAB — animated section banner" />
+</p>
 
 ### 🧪 Source2Lab — From Sources to Reproducible Notebooks
 
@@ -123,6 +134,10 @@ and please keep in mind i am soon releasing the exe app for window , the reason 
 
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A2563EB%2C100%3A7C3AED&height=72&section=header&text=03%20%20%2F%20%20SPEC-TO-STATE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="03  /  SPEC-TO-STATE — animated section banner" />
+</p>
 
 ### 🧭 Spec-to-State vNext — Agent Runtime Supervisor
 
@@ -157,6 +172,10 @@ Spec-to-State is **not another coding agent**. It's a runtime supervisor around 
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3AEF4444%2C50%3A991B1B%2C100%3A7C3AED&height=72&section=header&text=04%20%20%2F%20%20PANIC&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="04  /  PANIC — animated section banner" />
+</p>
+
 ### 🚨 PANIC — Deadline Enforcer
 
 **Can your remaining work actually fit before the deadline?**
@@ -182,6 +201,10 @@ An Android deadline planner that connects task management, study availability an
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A0F766E%2C100%3A2563EB&height=72&section=header&text=05%20%20%2F%20%20LINKPULSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="05  /  LINKPULSE — animated section banner" />
+</p>
+
 ### 🔗 LinkPulse — URL Shortening & Click Analytics
 
 **Short links with useful analytics and deliberate data-handling choices.**
@@ -203,6 +226,10 @@ A full-stack URL shortener with custom slugs, QR codes, HTTP 307 redirects and c
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A7C3AED%2C50%3ADB2777%2C100%3AF59E0B&height=72&section=header&text=06%20%20%2F%20%20PSxRENT&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="06  /  PSxRENT — animated section banner" />
+</p>
+
 ### 🎮 PSxRENT — Console Rental Platform
 
 **Gaming without the upfront cost of owning a console.**
@@ -219,6 +246,10 @@ A web project aimed at connecting gamers with console owners and rental shops. I
 **Engineering focus:** full-stack application structure, rental workflows and product usability.
 
 **[View web preview →](https://psxrent-m024rzlh6-ps-x-rent.vercel.app/)** · **[Follow PSxRENT →](https://instagram.com/psxrent)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A334155%2C50%3A0891B2%2C100%3A7C3AED&height=72&section=header&text=THE%20TOOLKIT&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="THE TOOLKIT — animated section banner" />
+</p>
 
 ## Toolkit
 
@@ -240,6 +271,10 @@ Tools I use across my projects and continue to learn.
 | Web | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS |
 | Data & development | SQLite, PostgreSQL, Prisma, Git, GitHub, Android Studio, pytest |
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A7C3AED%2C50%3A2563EB%2C100%3A06B6D4&height=72&section=header&text=CURRENTLY%20BUILDING&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="CURRENTLY BUILDING — animated section banner" />
+</p>
+
 ## Current focus
 
 - **Source2Lab:** developing a source-to-notebook workflow with reproducible execution, clear failure reports and safety boundaries.
@@ -248,6 +283,10 @@ Tools I use across my projects and continue to learn.
 - **PANIC:** refining the demo, usability and testing on real devices.
 - **PSxRENT:** developing the core rental experience into a usable MVP.
 - **Engineering foundations:** clearer code, useful tests, data structures and system design basics.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A0F172A%2C50%3A334155%2C100%3A06B6D4&height=72&section=header&text=SIGNALS%20FROM%20THE%20BUILD%20LOG&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="SIGNALS FROM THE BUILD LOG — animated section banner" />
+</p>
 
 <details>
 <summary><b>📊 Public GitHub activity</b></summary>
@@ -266,6 +305,10 @@ Tools I use across my projects and continue to learn.
 <!-- Optional third-party cards; availability depends on their hosting services. -->
 
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3ADB2777%2C50%3A7C3AED%2C100%3A06B6D4&height=72&section=header&text=LET'S%20BUILD%20SOMETHING%20USEFUL&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="LET'S BUILD SOMETHING USEFUL — animated section banner" />
+</p>
 
 ## Let's connect
 
