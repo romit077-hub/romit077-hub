@@ -23,6 +23,7 @@
 <p align="center">
   <a href="#selected-projects">Selected projects</a> ·
   <a href="#source2lab--from-sources-to-reproducible-notebooks">Source2Lab</a> ·
+  <a href="#spec-to-state-vnext--agent-runtime-supervisor">Spec-to-State vNext</a> ·
   <a href="#toolkit">Toolkit</a> ·
   <a href="#current-focus">Current focus</a> ·
   <a href="#lets-connect">Let's connect</a>
@@ -120,6 +121,40 @@ and please keep in mind i am soon releasing the exe app for window , the reason 
 
 > **Development status:** Work in progress. The repository is private for now, and the planned verification and repair workflow is not presented as a finished or publicly released product.
 
+
+---
+
+### 🧭 Spec-to-State vNext — Agent Runtime Supervisor
+
+**A local-first supervisor that checks whether an AI agent has actually completed the specification—not merely claimed it has.**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=680&height=36&lines=SPECIFICATION+%E2%86%92+CHECKPOINT+DAG;EXECUTE+%E2%86%92+VERIFY+WITH+EVIDENCE;DETECT+THRASH+%E2%86%92+RECOVER+SAFELY;REPRODUCE+%E2%86%92+MEASURE+RELIABILITY" alt="Spec-to-State: derive checkpoints, verify with evidence, detect thrashing, recover safely, and measure reliability" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Stage-Design_%26_Planning-F59E0B?style=flat-square" alt="Design and planning stage" />
+  <img src="https://img.shields.io/badge/Approach-Agent_Agnostic-7C3AED?style=flat-square" alt="Agent-agnostic design" />
+  <img src="https://img.shields.io/badge/Runtime-Local_First-06B6D4?style=flat-square" alt="Local-first runtime" />
+</p>
+
+Spec-to-State is **not another coding agent**. It's a runtime supervisor around an agent: it translates a task specification into verifiable checkpoints, tracks execution, independently checks results, and uses evidence to decide what should happen next.
+
+- **Specification-derived checkpoint DAG:** break a goal into ordered, dependency-aware checkpoints with explicit acceptance conditions.
+- **Independent verification:** check outputs and tests instead of trusting an agent's completion message.
+- **Progress and thrash detection:** distinguish real progress from repeated edits, stalled work and loops.
+- **Policy-gated execution:** apply configurable rules before sensitive or consequential actions.
+- **Evidence-backed recovery:** use recorded outcomes to decide whether to retry, re-plan or stop.
+- **Reliability evaluation:** replay controlled scenarios and measure false completion, recovery behavior and repeatability.
+
+**Planned foundation:** `Python 3.11+` · `pytest` · `SQLite / JSON` · `Git` · `Rich CLI` · optional `Docker`
+
+**Build strategy:** begin with a deterministic mock agent and a reproducible false-completion demo; add one real agent adapter only after the core supervisor can be tested reliably. Keep local/free tooling as the default, with paid APIs optional.
+
+> **Development status:** Architecture and phased implementation plan. The implementation is not being presented as complete, and no public repository link is listed yet.
+
+**Engineering focus:** verification beyond self-reporting, safe orchestration, measurable reliability and agent-independent design.
+
 ---
 
 ### 🚨 PANIC — Deadline Enforcer
@@ -208,6 +243,7 @@ Tools I use across my projects and continue to learn.
 ## Current focus
 
 - **Source2Lab:** developing a source-to-notebook workflow with reproducible execution, clear failure reports and safety boundaries.
+- **Spec-to-State vNext:** planning a local-first supervisor for checkpoint verification, progress/thrash detection and evidence-backed recovery.
 - **NeuroVault + Synapse:** documenting and showcasing the completed V0 and its verified behavior.
 - **PANIC:** refining the demo, usability and testing on real devices.
 - **PSxRENT:** developing the core rental experience into a usable MVP.
