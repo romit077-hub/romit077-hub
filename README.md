@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=BTech+CSE+Student+%7C+Gujarat%2C+India;NeuroVault+%2B+Synapse+V0+%E2%80%94+Complete;Building+Android+apps+and+web+products;Learning+through+real+projects" width="620" alt="BTech CSE student in Gujarat, India. NeuroVault + Synapse V0 is complete. Building Android and web projects." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+AI%2C+Android+%26+web+projects;NeuroVault+%2B+Synapse+V0+%E2%80%94+Complete;Building+Android+apps+and+web+products;Learning+through+real+projects" width="620" alt="Building AI, Android and web projects. NeuroVault + Synapse V0 is complete." />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## A little about me
 
-I'm **Romit**, a **third-year BTech Computer Science student** at **Ganpat University — U. V. Patel College of Engineering**, based in Gujarat, India.
+I'm **Romit**, a **third-year BTech Computer Science student**.
 
 My projects start with practical questions: Can I keep track of changing information? Can my remaining assignments fit into my study time? Can gaming be more accessible without owning a console?
 
