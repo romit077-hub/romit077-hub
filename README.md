@@ -24,6 +24,8 @@
   <a href="#selected-projects">Selected projects</a> ·
   <a href="#source2lab--from-sources-to-reproducible-notebooks">Source2Lab</a> ·
   <a href="#spec-to-state-vnext--agent-runtime-supervisor">Spec-to-State vNext</a> ·
+  <a href="#invensync--inventory-and-resource-management">InvenSync</a> ·
+  <a href="#repopulse--repository-review-and-risk-insights">RepoPulse</a> ·
   <a href="#toolkit">Toolkit</a> ·
   <a href="#current-focus">Current focus</a> ·
   <a href="#lets-connect">Let's connect</a>
@@ -226,8 +228,67 @@ A full-stack URL shortener with custom slugs, QR codes, HTTP 307 redirects and c
 
 ---
 
+<!-- Early-stage projects are intentionally ranked below projects with verified public demos. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A7C3AED%2C50%3ADB2777%2C100%3AF59E0B&height=72&section=header&text=06%20%20%2F%20%20PSxRENT&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="06  /  PSxRENT — animated section banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A0F766E%2C50%3A0891B2%2C100%3A7C3AED&height=72&section=header&text=06%20%20%2F%20%20INVENSYNC&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="06 / InvenSync — inventory and resource management" />
+</p>
+
+### 📦 InvenSync — Inventory & Resource Management
+
+**A web application concept for tracking shared resources, handling requests and keeping inventory changes accountable.**
+
+<p>
+  <img src="https://img.shields.io/badge/Stage-Early_Prototype-F59E0B?style=flat-square" alt="Early prototype" />
+  <img src="https://img.shields.io/badge/Category-Full--Stack_Web-3178C6?style=flat-square" alt="Full-stack web application" />
+  <img src="https://img.shields.io/badge/Focus-Inventory_Workflows-0F766E?style=flat-square" alt="Inventory workflows" />
+</p>
+
+InvenSync is intended to bring inventory visibility and resource lending into one workflow, from tracking available items to reviewing requests and recording returns.
+
+- **Inventory visibility:** represent resources and their availability.
+- **Request workflow:** support requesting resources and reviewing approvals.
+- **Account-aware access:** separate user actions from administrative operations.
+- **Consistency matters:** inventory counts and checkout/return actions need to remain correct even when requests overlap.
+
+**Engineering focus:** full-stack application design, access-control boundaries, reliable stock updates and workflow validation.
+
+> **Status & safety note:** early-stage project. The repository is not yet a verified, runnable public release; authentication and authorization, secret handling, and inventory concurrency must be reviewed and tested before deployment. Do not use it with real accounts or inventory yet.
+
+**[Open InvenSync repository →](https://github.com/romit077-hub/InvenSync)**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A2563EB%2C50%3A4F46E5%2C100%3A0F766E&height=72&section=header&text=07%20%20%2F%20%20REPOPULSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="07 / RepoPulse — repository review and risk insights" />
+</p>
+
+### 🔎 RepoPulse — Repository Review & Risk Insights
+
+**A project focused on turning repository inspection into a clearer, structured codebase review.**
+
+<p>
+  <img src="https://img.shields.io/badge/Stage-Early_Stage-F59E0B?style=flat-square" alt="Early stage" />
+  <img src="https://img.shields.io/badge/Focus-Codebase_Review-7C3AED?style=flat-square" alt="Codebase review" />
+  <img src="https://img.shields.io/badge/Priority-Risk_Awareness-DC2626?style=flat-square" alt="Risk awareness" />
+</p>
+
+RepoPulse is being positioned around making codebase reviews easier to inspect and communicate, with structured review outputs rather than vague “looks good” feedback.
+
+- **Review-oriented workflow:** organize findings into a readable codebase assessment.
+- **Risk awareness:** make potential implementation and repository risks easier to identify and prioritize.
+- **Sample review outputs:** use concrete examples to communicate findings and recommendations.
+- **Actionable reporting:** connect observations to practical next steps instead of relying on a single score.
+
+**Engineering focus:** codebase inspection, risk communication, structured technical reporting and review quality.
+
+> **Status & verification note:** early-stage project. Its source code and implementation details have not yet been verified from a populated public repository, so this profile describes the intended direction—not a claim that automated analysis, scoring, or security detection is production-ready.
+
+**[Open RepoPulse repository →](https://github.com/romit077-hub/RepoPulse)**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A7C3AED%2C50%3ADB2777%2C100%3AF59E0B&height=72&section=header&text=08%20%20%2F%20%20PSxRENT&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="08  /  PSxRENT — animated section banner" />
 </p>
 
 ### 🎮 PSxRENT — Console Rental Platform
@@ -281,6 +342,7 @@ Tools I use across my projects and continue to learn.
 - **Spec-to-State vNext:** planning a local-first supervisor for checkpoint verification, progress/thrash detection and evidence-backed recovery.
 - **NeuroVault + Synapse:** documenting and showcasing the completed V0 and its verified behavior.
 - **PANIC:** refining the demo, usability and testing on real devices.
+- **InvenSync and RepoPulse:** validating the early-stage designs, publishing source code safely and documenting what is genuinely implemented.
 - **PSxRENT:** developing the core rental experience into a usable MVP.
 - **Engineering foundations:** clearer code, useful tests, data structures and system design basics.
 
