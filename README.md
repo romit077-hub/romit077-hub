@@ -31,7 +31,6 @@
   <a href="#invensync--inventory-and-resource-management">InvenSync</a> ·
   <a href="#repopulse--repository-review-and-risk-insights">RepoPulse</a> ·
   <a href="#toolkit">Toolkit</a> ·
-  <a href="#developer-console">Developer Console</a> ·
   <a href="#current-focus">Current focus</a> ·
   <a href="#lets-connect">Let's connect</a>
 </p>
@@ -373,83 +372,6 @@ Tools I use across my projects and continue to learn.
 
 </details>
 
----
-
-## Developer Console
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONSOLE-ONLINE-22C55E?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Developer console — terminal-inspired profile section" />
-  <img src="https://img.shields.io/badge/MODE-READ_ONLY-7C3AED?style=for-the-badge" alt="Read-only terminal display" />
-</p>
-
-A tiny command-line view of what I'm building, what I care about and where to find me.
-
-```console
-romit@github:~$ whoami
-Romit Trivedi
-Student developer | Local AI | Android | Full-stack web
-
-romit@github:~$ ls ~/projects
-NeuroVault-Synapse/   Source2Lab/   Spec-to-State/
-PANIC/                LinkPulse/    InvenSync/
-RepoPulse/            PSxRENT/
-
-romit@github:~$ cat ~/principles.txt
-Build useful things.
-Understand the system.
-Verify with evidence.
-Improve the next version.
-
-romit@github:~$ ./next-step
-Learn -> Build -> Test -> Ship -> Repeat
-
-romit@github:~$ _
-```
-
-<sub>Terminal-inspired display only — these are profile commands for presentation, not executable shell commands.</sub>
-
-<details>
-<summary><b>⌨️ Try a hidden command: help</b></summary>
-
-```text
-AVAILABLE COMMANDS
-  whoami       About the developer
-  ls projects  Browse selected projects
-  principles   Read the engineering mindset
-  contact      Find me around the web
-
-TIP: The most interesting output is usually the work behind the links.
-```
-
-</details>
-
-<details>
-<summary><b>🪄 sudo make me legendary</b></summary>
-
-```text
-[sudo] password for romit:
-Access denied — legendary status cannot be installed.
-
-Try instead:
-  build something useful
-  help someone debug it
-  repeat until it gets better
-```
-
-</details>
-
-<details>
-<summary><b>🛰️ ./secret --discover</b></summary>
-
-You found the hidden corner of the README.
-
-A small reminder from the developer:
-
-> The goal isn't to look busy. It's to build things that work, learn why they work, and make them better.
-
-**Bonus:** [Explore the repositories](https://github.com/romit077-hub?tab=repositories) and find the project that interests you most.
-
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3ADB2777%2C50%3A7C3AED%2C100%3A06B6D4&height=72&section=header&text=LET'S%20BUILD%20SOMETHING%20USEFUL&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="LET'S BUILD SOMETHING USEFUL — animated section banner" />
