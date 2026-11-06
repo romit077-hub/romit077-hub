@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romit077-hub&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="GitHub profile views counter" />
+</p>
+
+<p align="center">
   <a href="#selected-projects">Selected projects</a> ·
   <a href="#source2lab--from-sources-to-reproducible-notebooks">Source2Lab</a> ·
   <a href="#spec-to-state-vnext--agent-runtime-supervisor">Spec-to-State vNext</a> ·
