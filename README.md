@@ -51,6 +51,16 @@ I'm building experience across **local AI systems, Android applications and web 
 
 > **Build something useful. Understand how it works. Make the next version better.**
 
+## Building Beyond Code
+
+I also enjoy taking software beyond personal projects and applying it to real-world needs.
+
+- **Supporting local businesses:** Helped local shops set up QR-based customer review systems, making it easier for customers to share feedback and for businesses to build their online review presence.
+- **Exploring workplace automation:** Now looking to develop practical automation solutions for operations-heavy workplaces, with a focus on reducing repetitive manual tasks, streamlining workflows and improving day-to-day efficiency.
+
+My goal is simple: build technology that solves problems people and businesses actually face.
+
+
 ## Selected projects
 
 <p align="center">
