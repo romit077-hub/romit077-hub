@@ -67,7 +67,7 @@ My goal is simple: build technology that solves problems people and businesses a
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A7C3AED%2C100%3ADB2777&height=72&section=header&text=01%20%20%2F%20%20NEUROVAULT%20%C3%97%20SYNAPSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="01  /  NEUROVAULT × SYNAPSE — animated section banner" />
 </p>
 
-### 🧠 NeuroVault + Synapse Active Brain
+###  NeuroVault + Synapse Active Brain
 
 **A local knowledge vault that answers from your documents and flags changing facts for your review.**
 
@@ -122,7 +122,7 @@ Accepting a memory update preserves the older source document, so retrieval can 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3AF59E0B%2C50%3AEA580C%2C100%3A7C3AED&height=72&section=header&text=02%20%20%2F%20%20SOURCE2LAB&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="02  /  SOURCE2LAB — animated section banner" />
 </p>
 
-### 🧪 Source2Lab — From Sources to Reproducible Notebooks
+###  Source2Lab — From Sources to Reproducible Notebooks
 
 **Turning technical material into traceable Python experiments that can be executed, checked and improved.**
 
@@ -155,7 +155,7 @@ Accepting a memory update preserves the older source document, so retrieval can 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A2563EB%2C100%3A7C3AED&height=72&section=header&text=03%20%20%2F%20%20SPEC-TO-STATE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="03  /  SPEC-TO-STATE — animated section banner" />
 </p>
 
-### 🧭 Spec-to-State vNext — Agent Runtime Supervisor
+###  Spec-to-State vNext — Agent Runtime Supervisor
 
 **A local-first supervisor that checks whether an AI agent has actually completed the specification—not merely claimed it has.**
 
@@ -192,7 +192,7 @@ Spec-to-State is **not another coding agent**. It's a runtime supervisor around 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3AEF4444%2C50%3A991B1B%2C100%3A7C3AED&height=72&section=header&text=04%20%20%2F%20%20PANIC&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="04  /  PANIC — animated section banner" />
 </p>
 
-### 🚨 PANIC — Deadline Enforcer
+###  PANIC — Deadline Enforcer
 
 **Can your remaining work actually fit before the deadline?**
 
@@ -221,7 +221,7 @@ An Android deadline planner that connects task management, study availability an
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A06B6D4%2C50%3A0F766E%2C100%3A2563EB&height=72&section=header&text=05%20%20%2F%20%20LINKPULSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="05  /  LINKPULSE — animated section banner" />
 </p>
 
-### 🔗 LinkPulse — URL Shortening & Click Analytics
+###  LinkPulse — URL Shortening & Click Analytics
 
 **Short links with useful analytics and deliberate data-handling choices.**
 
@@ -247,7 +247,7 @@ A full-stack URL shortener with custom slugs, QR codes, HTTP 307 redirects and c
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A0F766E%2C50%3A0891B2%2C100%3A7C3AED&height=72&section=header&text=06%20%20%2F%20%20INVENSYNC&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="06 / InvenSync — inventory and resource management" />
 </p>
 
-### 📦 InvenSync — Inventory & Resource Management
+###  InvenSync — Inventory & Resource Management
 
 **A web application concept for tracking shared resources, handling requests and keeping inventory changes accountable.**
 
@@ -276,7 +276,7 @@ InvenSync is intended to bring inventory visibility and resource lending into on
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A2563EB%2C50%3A4F46E5%2C100%3A0F766E&height=72&section=header&text=07%20%20%2F%20%20REPOPULSE&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="07 / RepoPulse — repository review and risk insights" />
 </p>
 
-### 🔎 RepoPulse — Repository Review & Risk Insights
+###  RepoPulse — Repository Review & Risk Insights
 
 **A project focused on turning repository inspection into a clearer, structured codebase review.**
 
@@ -305,7 +305,7 @@ RepoPulse is being positioned around making codebase reviews easier to inspect a
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0%3A7C3AED%2C50%3ADB2777%2C100%3AF59E0B&height=72&section=header&text=08%20%20%2F%20%20PSxRENT&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" alt="08  /  PSxRENT — animated section banner" />
 </p>
 
-### 🎮 PSxRENT — Console Rental Platform
+###  PSxRENT — Console Rental Platform
 
 **Gaming without the upfront cost of owning a console.**
 
@@ -367,7 +367,7 @@ Tools I use across my projects and continue to learn.
 </p>
 
 <details>
-<summary><b>📊 Public GitHub activity</b></summary>
+<summary><b> Public GitHub activity</b></summary>
 
 <br/>
 
