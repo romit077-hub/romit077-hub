@@ -310,15 +310,17 @@ RepoPulse is being positioned around making codebase reviews easier to inspect a
 **Gaming without the upfront cost of owning a console.**
 
 <p>
-  <img src="https://img.shields.io/badge/Stage-In_Development-F59E0B?style=flat-square" alt="In development" />
-  <img src="https://img.shields.io/badge/Focus-Ahmedabad_%26_Gandhinagar-8B5CF6?style=flat-square" alt="Initial focus: Ahmedabad and Gandhinagar" />
+  <img src="https://img.shields.io/badge/Stage-Temporarily_Paused-64748B?style=flat-square" alt="Temporarily paused" />
+  <img src="https://img.shields.io/badge/Focus-Social_Impact-0F766E?style=flat-square" alt="Social impact project" />
 </p>
 
-A web project aimed at connecting gamers with console owners and rental shops. I'm developing the experience around **renters and hosts**, with clear console discovery, rental information and pricing.
+PSxRENT is a **social-impact project** built to make console gaming more accessible by connecting gamers with console owners and local offline rental shops. It was developed in collaboration with offline rental partners, with the goal of helping people experience console gaming without having to purchase a console upfront.
+
+> **A note on the pause:** PSxRENT is currently **temporarily paused**, not abandoned. The project has been put on hold due to the current PS5 supply shortage and the upcoming launch of **Grand Theft Auto VI**, both of which affect the timing and practicality of the rental market. I'll revisit the project when supply and market conditions make a relaunch more viable.
 
 **Stack:** `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
 
-**Engineering focus:** full-stack application structure, rental workflows and product usability.
+**Engineering focus:** accessible gaming, collaboration with offline rental providers, full-stack application design and practical rental workflows.
 
 **[View web preview →](https://psxrent-m024rzlh6-ps-x-rent.vercel.app/)** · **[Follow PSxRENT →](https://instagram.com/psxrent)**
 
@@ -357,7 +359,7 @@ Tools I use across my projects and continue to learn.
 - **NeuroVault + Synapse:** documenting and showcasing the completed V0 and its verified behavior.
 - **PANIC:** refining the demo, usability and testing on real devices.
 - **InvenSync and RepoPulse:** validating the early-stage designs, publishing source code safely and documenting what is genuinely implemented.
-- **PSxRENT:** developing the core rental experience into a usable MVP.
+- **PSxRENT:** temporarily paused while PS5 supply and the GTA VI launch reshape the console-rental market; the social-impact project may resume when conditions improve.
 - **Engineering foundations:** clearer code, useful tests, data structures and system design basics.
 
 <p align="center">
